@@ -36,3 +36,19 @@ footer{
 .cuerpo{
     margin-top: 10px;
 }
+
+.col-2{
+margin-top: 40px;
+}
+
+.hipervinculos{
+    list-style: none;
+}
+.hipervinculos a{
+    text-decoration: none;
+    color: rgb(41, 77, 155);
+}
+
+.autores{
+    color: blue;
+}
